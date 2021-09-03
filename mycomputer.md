@@ -52,4 +52,4 @@ The screen
 
 ![Github Logo](IMG-1312.jpg)
 
-And the giant charger
+And the giant charger.
