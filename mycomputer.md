@@ -37,4 +37,19 @@ I absaloutely **love** this thing, I got it in 2019 in december after my old com
 This laptop is more powerful than a lot of gaming pc's are, the main problem though is that gaming pc's are big for a reason, to cool themselves down. This laptop having the power of a gaming PC is means it over heats fast. 
 
 ## Here are some pictures of my computer
+
 ![Github Logo](IMG-1309.jpg)
+
+Here is the top of the computer
+
+![Github Logo](IMG-1310.jpg)
+
+The keyboard
+
+![Github Logo](IMG-1311.jpg)
+
+The screen
+
+![Github Logo](IMG-1312.jpg)
+
+And the giant charger
