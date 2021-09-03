@@ -15,9 +15,12 @@ There is bluetooth on my computer
 There is wifi on my computer
 
 
+
 ## There are two storage devices on my computer:
 * A standered windows storage that holds 237 gb
 * A data storage that holds 931 gb
+
+
 
 ## The ports on my computer are:
 * 3 USB A ports
