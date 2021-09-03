@@ -35,3 +35,6 @@ There is wifi on my computer
 I absaloutely **love** this thing, I got it in 2019 in december after my old computer, a 2012 macbook, was litterally falling apart. This thing has stuck with me and is an amazing gaming laptop in general. 
 
 This laptop is more powerful than a lot of gaming pc's are, the main problem though is that gaming pc's are big for a reason, to cool themselves down. This laptop having the power of a gaming PC is means it over heats fast. 
+
+## Here are some pictures of my computer
+![Github Logo](IMG-1309.jpg)
